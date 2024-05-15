@@ -16,8 +16,18 @@
 ### Priredbeni seznam:
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | --------------- | --------------- | -------------- | ----- |
-| KEY 1 | Gumb | N.C. | Za vnos številk in potrditev kode |
-| SW1 | Stikalo      | menjalno stikalo | Za omogočanje delovanja keypad-a |
+| KEY 1 | Tipka | N.C. | Tipka | Tipka, ki jo pritisnejo na kvizih za zaporedno odgovarjanje na uprašanja |
+| KEY 2 | Tipka | N.C. | Tipka | Tipka, ki jo pritisnejo na kvizih za zaporedno odgovarjanje na uprašanja |
+| KEY 3 | Tipka | N.C. | Tipka | Tipka, ki jo pritisnejo na kvizih za zaporedno odgovarjanje na uprašanja |
+| KEY 4 | Tipka | N.C. | Tipka | Tipka, za resetiranje kviza |
+| RP1 | Potenciometer | Analgno | Za nastavljanje kontrasta na LCD zaslonu |
+
+| Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
+| --------------- | --------------- | ------ | ----- |
+| LED1 | LED | 7 | Je prižgana, ko je kviz v začetnem stanju |
+| LED2 | LED | 8 | Je prižgana, ko je vsaj en prtisnil tipko |
+| LED3 | LED | 9 | Je prižgana, ko so vsi pritisnili na tipke ter je kviz končan |
+| U2 | LCD zaslon | 13,12,11,10,1,2 | Izpisuje, vrstni red pritiskov na tipke |
 
 
 ### Shema:
@@ -34,6 +44,6 @@ https://github.com/JakaVesena/Arduino_KVIZ/assets/169873277/f85b5b3d-a03d-4754-a
 
 ### Komentar:
 #### Delovanje:
-Projekt deluje dobro, vmes pa sva imela težave s programiranjem LCD zaslona.
+Projekt deluje dobro, vmes pa sva imela težave s programiranjem LCD zaslona. Pozabila sva tudi na utripajočo LED diodo - spomnila sva se šele, ko sva ponovno prebrala navodila za projektno nalogo, prej pa sva že vse razstavila.
 #### Izboljšave:
 Morebitne izboljšave za sam projekt, bi bilo recimo: dodajanje izpisa časa kviza, da se LED dioda prižge nad tisto tipko, ki je bila pritisnjena in morebnto še izbira števila igralcev (na začetku  programa uporabnik izbere število tipk, ki jih bo bilo možno pritisniti, npr. v našem primeru 2 ali 3 igralci).
