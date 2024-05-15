@@ -32,6 +32,6 @@ delu (^^)b
 
 ### Komentar:
 #### Delovanje:
-Projekt deluje dobro, vmes pa sva imela težave s programiranjem LCD zaslona.\
+Projekt deluje dobro, vmes pa sva imela težave s programiranjem LCD zaslona.
 #### Izboljšave:
 Morebitne izboljšave za sam projekt, bi bilo recimo: dodajanje izpisa časa kviza, da se LED dioda prižge nad tisto tipko, ki je bila pritisnjena in morebnto še izbira števila igralcev (na začetku  programa uporabnik izbere število tipk, ki jih bo bilo možno pritisniti, npr. v našem primeru 2 ali 3 igralci).
