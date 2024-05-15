@@ -1,2 +1,5 @@
 # Arduino_KVIZ
-Naloga pri predmetu UPN.
+
+![picture](file:///C:/Users/U207.02/Downloads/Posnetek%20zaslona%202024-05-15%20074815.png)  
+
+
