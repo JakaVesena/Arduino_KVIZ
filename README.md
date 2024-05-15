@@ -4,7 +4,7 @@
 **Kviz**: Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila pritisnjena prva, katera druga in katera tretja. Zelena LED pomeni, da ni nihče še pritisnil na tipko (začetek kviza), rumena LED pomeni, da je vsaj en igralec pritisnil na tipko. Ko so vsi trije igralci pritisnili svoje tipke, utripa rdeča LED. S tipko za reset R ugasnemo rdečo LED diodo in resetiramo kviz. Za prikaz vrstnega reda uporabite LCD zaslon.
 
 ### Kosovnica:
-1x Arduino UNO,
+1x Arduino UNO, \n
 2x Vezalna plošča,
 1x LCD zaslon
 8x 220Ω upor,
