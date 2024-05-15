@@ -25,10 +25,6 @@
 https://github.com/JakaVesena/Arduino_KVIZ/assets/169873277/f85b5b3d-a03d-4754-a84b-3d353eb75bde
 
 
-tu d so lučke nad umbam kir hj djansk pru
-tu d so cajti na lcd
-da lhkra zbereš kulk igralcu
-delu (^^)b
 
 ### Komentar:
 #### Delovanje:
