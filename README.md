@@ -14,10 +14,10 @@
 * 29x Žic.
 
 ### Priredbeni seznam:
-| Oznaka v načrtu | vrsta kontakta | pomen |
-| ----------- | ----------- | ----------- |
-| Header | Title | aa |
-| Paragraph | Text |aa |
+| Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
+| --------------- | --------------- | -------------- | ----- |
+| KEY 1 | Gumb | N.C. | Za vnos številk in potrditev kode |
+| SW1 | Stikalo      | menjalno stikalo | Za omogočanje delovanja keypad-a |
 
 
 ### Shema:
